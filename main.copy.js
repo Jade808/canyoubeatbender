@@ -112,7 +112,7 @@ function declareWinner(playerWins, computerWins)
     }
     else if (computerWins > playerWins)
     {
-        console.log('Computer wins the Game!');
+        console.log('Bender wins the Game!');
     }
     else
     {
